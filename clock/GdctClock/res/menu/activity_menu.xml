@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/menu_clock"
+        android:title="@string/menu_clock"
+        android:orderInCategory="100"
+        android:icon="@drawable/icon_menu_set"
+        />
+    <item android:id="@+id/menu_rock"
+        android:title="@string/menu_rock"
+        android:orderInCategory="100"
+         android:icon="@drawable/icon_menu_set"
+       />
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        android:orderInCategory="100"
+         android:icon="@drawable/icon_menu_set"
+      />
+    <item android:id="@+id/menu_about"
+        android:title="@string/menu_about"
+         android:icon="@drawable/icon_menu_set"
+        android:orderInCategory="100"
+         />
+</menu>
